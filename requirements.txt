@@ -1,0 +1,5 @@
+fastapi
+Pillow
+pyTelegramBotAPI
+sdnotify
+uvicorn
